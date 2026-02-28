@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Big Buck Bunny 4K" tvg-logo="images/ForBiggerBlazes.jpg" group-title="4K Ultra HD", Big Buck Bunny 4K
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Tears of Steel 4K" tvg-logo="images/ForBiggerEscapes.jpg" group-title="4K Ultra HD", Tears of Steel 4K
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Adaptive Bitrate (ABR)" tvg-logo="images/ForBiggerJoyrides.jpg" group-title="4K Ultra HD", Adaptive Bitrate (ABR)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_adv_example_hevc/master.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Sintel Multi-Bitrate" tvg-logo="images/ForBiggerMeltdowns.jpg" group-title="4K Ultra HD", Sintel Multi-Bitrate
+https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="NASA TV Public" tvg-logo="images/ForBiggerMeltdowns.jpg" group-title="4K Ultra HD",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Bloomberg TV" tvg-logo="images/ForBiggerMeltdowns.jpg" group-title="4K Ultra HD",Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
