@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=350000
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58526_093e/128/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=750000
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58526_093e/500/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58526_093e/750/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1250000
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58526_093e/1000/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1750000
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58526_093e/1500/prog_index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2750000
+https://kanaldvod.duhnet.tv/S8/HLS_VOD/58526_093e/2500/prog_index.m3u8
